@@ -28,28 +28,6 @@ in a simple and fast way. It is widely used for project documentation,
 
 creating README files on GitHub, writing blogs, and generating structured documents.
 
-# Application Web Design
-
-**Student:** Monica Yuliana Alvarado Tamayo
-
-**ID Number:** AL03088704
-
-**Student:** Sharon Chelsea Morales Torres
-
-**ID Number:** AL03074253
-
-**Student:** Melani Yaibeth Cruz Sorola
-
-**ID Number:** AL03079294
-
-
-
-**Degree Program:** Software development engineering
-**Semester:** 6th  
-
-**Course:** Web Application Design
-**Professor:** Jose Luis Garcia Munoz  
-
 ---
 ## 📌 Markdown Formatting Options
 
